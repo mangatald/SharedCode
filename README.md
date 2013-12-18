@@ -1,3 +1,3 @@
-EverythingCollege
+SharedCode
 =================
 Repository for shared code
